@@ -1,7 +1,8 @@
 ## Data Sciene Course Projects 👋
 
-<!--
-**Hello! Alan Santos here. Just a Passionate enthusiast of Data Anlytics.
+Hello! Alan Santos here. Welcome to my GitHub Study Space!
+
+I am just a Passionate enthusiast of Data Anlytics.
 
 - 🔭 I’m currently working on Market Intelligence at ClearSale
 - 🌱 I’m currently learning about Data Science
@@ -11,4 +12,3 @@
 
 <a href="https://www.linkedin.com/in/allanpxao" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
--->
