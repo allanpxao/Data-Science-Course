@@ -8,4 +8,7 @@
 - 👯 I’m looking to collaborate on projects that can provide me more learning opportunities in Data Science
 - 📫 How to reach me: fell free to send me a message. I will be in touch as soon as a possible!
 - ⚡ Fun fact: I love learn new things!
+
+<a href="https://www.linkedin.com/in/allanpxao" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 -->
