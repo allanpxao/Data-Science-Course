@@ -1,5 +1,5 @@
 let drawnNumberList = [];
-let limitNumber = 100;
+let limitNumber = 1000;
 let secretNumber = generateRandomNumber();
 let attempts = 1;
 
@@ -11,7 +11,7 @@ function showTextInScreen(tag, text) {
 
 function displayInitialMessage() {
     showTextInScreen('h1', 'Secret Number Game');
-    showTextInScreen('p', 'Choose a number between 1 and 100');
+    showTextInScreen('p', 'Choose a number between 1 and 1000');
 }
 
 displayInitialMessage();
