@@ -12,3 +12,4 @@ I am just a Passionate enthusiast of Data Anlytics.
 
 <a href="https://www.linkedin.com/in/allanpxao" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
